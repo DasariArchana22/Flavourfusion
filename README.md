@@ -6,11 +6,14 @@ AI Content Generation: Generates detailed recipes based on user-defined topics a
 Engagement: Displays random programmer jokes during the generation process.
 Export Options: Users can copy the generated text to their clipboard or download it as a professional PDF.
 Modern UI: Clean and responsive interface built using Streamlit.
+
 🛠️ Tech Stack
 Language: Python
 AI Model: Google Gemini 2.5 Flash
 Web Framework: Streamlit
 PDF Generation: FPDF
+
+
 📦 Installation & Setup
 Clone the repository git clone [https://github.com/DasariArchana22/Flavourfusion]
 cd Flavour_Fusion
